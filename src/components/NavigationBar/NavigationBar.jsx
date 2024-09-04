@@ -1,5 +1,6 @@
 import "src/components/NavigationBar/NavigationBar.css"
 import image from "../../static/images/Screenshot from 2024-09-02 23-52-06.png";
+import React from "react";
 
 
 const NavigationBar = () => {
